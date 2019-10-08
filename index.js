@@ -20,8 +20,13 @@ function writeCards( namesArray, event ) {
 
 
 
-function countdown(){
-let countdown = 10;
+function countdown(countdown){
+
 while (countdown > 0)
 console.log(countdown--);
 }
+
+
+
+
+
