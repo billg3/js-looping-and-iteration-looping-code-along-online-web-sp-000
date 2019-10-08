@@ -4,7 +4,7 @@ function writeCards(array, event){
   ray = []
 for (let i = 0; i < array.length; i++){
 
-  console.log("Thank you, ${array[i]}, for the wonderful ${event} gift!",)
+  console.log('Thank you, ${array[i]}, for the wonderful ${event} gift!',)
 }
 
 }
