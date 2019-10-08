@@ -14,5 +14,5 @@ function writeCards( array, event ) {
   for ( let i = 0; i < array.length; i++ ) {
     Cards.push( `Thank you, ${namesArray[i]}, for the wonderful ${event} gift!` )
   }
-  return thankYouCards
+  return Cards
 }
