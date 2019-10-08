@@ -21,13 +21,7 @@ function writeCards( namesArray, event ) {
 
 
 function CountDown(){
-let countdown = 10; 
+let countdown = 10;
 while (countdown > 0)
 cosole.log(countdown++);
 }
-
-
-
-
-
-
