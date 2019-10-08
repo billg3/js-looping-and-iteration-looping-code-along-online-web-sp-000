@@ -21,7 +21,7 @@ function writeCards( namesArray, event ) {
 
 
 function countdown(countdown){
-
+// let countdown = 10
 while (countdown > 0)
 console.log(countdown--);
 }
