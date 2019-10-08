@@ -25,8 +25,3 @@ function countdown(countdown){
 while (countdown > 0)
 console.log(countdown--);
 }
-
-
-
-
-
