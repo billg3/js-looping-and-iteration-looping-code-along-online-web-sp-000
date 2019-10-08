@@ -23,5 +23,5 @@ function writeCards( namesArray, event ) {
 function countdown(){
 let countdown = 10;
 while (countdown > 0)
-cosole.log(countdown++);
+console.log(countdown++);
 }
